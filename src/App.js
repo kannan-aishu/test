@@ -19,6 +19,7 @@ function App() {
 
         </a>
         <h1>kannan</h1>
+        <h2>I Am A Boy</h2>
       </header>
     </div>
   );
