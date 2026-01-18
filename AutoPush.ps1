@@ -16,6 +16,7 @@ while ($true) {
         git commit -m "Auto commit $(Get-Date -Format 'HH:mm:ss')"
         git push origin main
         Write-Host "Pushed at $(Get-Date)"
+        npm start
     } else {
         Write-Host "No changes to push at $(Get-Date)"
     }
