@@ -19,7 +19,7 @@ function App() {
 
         </a>
         <h1>kannan</h1>
-        <h2>I Am Not Good</h2>
+        <h2>I Am Not Go</h2>
       </header>
     </div>
   );
